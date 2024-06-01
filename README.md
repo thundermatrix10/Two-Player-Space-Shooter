@@ -1,7 +1,7 @@
 # Two-Player Space Shooter Game
 
 ## Description
-A thrilling two-player space shooter game implemented in Python using the Pygame library and Object-Oriented Programming (OOP) principles. In this game, two players control their spaceships, shooting each other down until one player is left with zero lives.
+A thrilling two-player space shooter game implemented in Python using the Pygame library and Object-Oriented Programming (OOP) principles. In this game, two players control their spaceships, shooting each other down until one player reaches zero lives.
 
 
 ## Features

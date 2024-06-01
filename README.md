@@ -14,3 +14,4 @@ A thrilling two-player space shooter game implemented in Python using the Pygame
  - Score Display:
    - Real-time display of each player's remaining lives.
 ##
+![](screenshost/s1.png)
